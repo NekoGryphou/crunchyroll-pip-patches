@@ -1,10 +1,13 @@
 # Gryphou's Morphe Patches
 
-Morphe patch bundle that adds Android Picture-in-Picture support to Crunchyroll.
+Morphe patch bundle for Crunchyroll and De'Longhi Comfort.
 
 ## About
 
-This repository contains a Morphe patch for `com.crunchyroll.crunchyroid` that enables the Android PiP manifest attributes on the watch activities and gates automatic PiP entry so it only runs when Crunchyroll reports active video playback.
+This repository contains Morphe patches that:
+
+- Enable Android Picture-in-Picture for Crunchyroll (`com.crunchyroll.crunchyroid`).
+- Hide the `GetReceivedShares-003` incident popup in De'Longhi Comfort (`com.ddsx_ayla_android`).
 
 ## Patches list
 
