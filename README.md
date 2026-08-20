@@ -12,7 +12,24 @@ This repository contains Morphe patches that:
 ## Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.1.0-dev.1](https://github.com/NekoGryphou/gryphous-morphe-patches/releases/tag/v1.1.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+> **[v1.1.0-dev.2](https://github.com/NekoGryphou/gryphous-morphe-patches/releases/tag/v1.1.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;4 patches total
+<details open>
+<summary>📦 De'Longhi Comfort&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
+<br>
+
+**🎯 Supported versions:**
+
+| 5.1.5 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable login location requirement](#disable-login-location-requirement) | Allows login and registration without granting location permission. |  |
+| [Disable notification permission prompt](#disable-notification-permission-prompt) | Prevents De'Longhi Comfort from asking to enable notifications. |  |
+| [Hide shared-devices incident popup](#hide-shared-devices-incident-popup) | Prevents the GetReceivedShares-003 incident popup from appearing. |  |
+
+</details>
+
 <details open>
 <summary>📦 Crunchyroll&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -25,21 +42,6 @@ This repository contains Morphe patches that:
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Enable Picture-in-Picture](#enable-picture-in-picture) | Enables automatic Android Picture-in-Picture when leaving Crunchyroll playback. |  |
-
-</details>
-
-<details open>
-<summary>📦 De'Longhi Comfort&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
-<br>
-
-**🎯 Supported versions:**
-
-| 5.1.5 |
-| :---: |
-
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [Hide shared-devices incident popup](#hide-shared-devices-incident-popup) | Prevents the GetReceivedShares-003 incident popup from appearing. |  |
 
 </details>
 
