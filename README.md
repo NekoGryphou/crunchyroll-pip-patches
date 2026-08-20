@@ -7,7 +7,7 @@ Morphe patch bundle for Crunchyroll and De'Longhi Comfort.
 This repository contains Morphe patches that:
 
 - Enable Android Picture-in-Picture for Crunchyroll (`com.crunchyroll.crunchyroid`).
-- Hide the `GetReceivedShares-003` incident popup in De'Longhi Comfort (`com.ddsx_ayla_android`).
+- Hide the `GetReceivedShares-003` incident popup, remove the login location requirement, and suppress the notification permission prompt in De'Longhi Comfort (`com.ddsx_ayla_android`).
 
 ## Patches list
 
