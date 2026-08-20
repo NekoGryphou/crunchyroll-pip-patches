@@ -1,3 +1,9 @@
+## [1.1.0-dev.1](https://github.com/NekoGryphou/gryphous-morphe-patches/compare/v1.0.1...v1.1.0-dev.1) (2026-08-20)
+
+### ✨ New Features
+
+* hide DeLonghi shared devices incident popup ([e9d11d2](https://github.com/NekoGryphou/gryphous-morphe-patches/commit/e9d11d230506efb186d7e66437ea7e85bd14e2b6))
+
 ## [1.0.1](https://github.com/NekoGryphou/gryphous-morphe-patches/compare/v1.0.0...v1.0.1) (2026-07-06)
 
 ### 🐛 Bug Fixes
