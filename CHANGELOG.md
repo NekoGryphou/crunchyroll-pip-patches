@@ -1,3 +1,9 @@
+## [1.2.0-dev.1](https://github.com/NekoGryphou/gryphous-morphe-patches/compare/v1.1.0...v1.2.0-dev.1) (2026-09-07)
+
+### ✨ New Features
+
+* **delonghi:** restore AC controls and disable review requests ([855d0f1](https://github.com/NekoGryphou/gryphous-morphe-patches/commit/855d0f1409384006292bcfbe659043d1d1abca8d))
+
 ## [1.1.0](https://github.com/NekoGryphou/gryphous-morphe-patches/compare/v1.0.1...v1.1.0) (2026-08-20)
 
 ### ✨ New Features
